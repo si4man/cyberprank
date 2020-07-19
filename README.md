@@ -1,2 +1,2 @@
-# cyberprank
-Discord Rich Presence
+# Cyberprank - более модернизированый Discord Rich Presence
+
