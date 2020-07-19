@@ -1,0 +1,9 @@
+{
+	"missions": ["Pacific", "Street Stories", "Cyberpunk", "Retribution Stars", "Murder in Night City", "Silverhand"],
+	
+	"chars": ["Meredith Stout", "Dexter DeShawn", "V", "Oleg"],
+	
+	"time": 100,
+	
+	"level": 1
+}
