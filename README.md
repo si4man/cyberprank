@@ -1,2 +1,2 @@
-# Cyberprank - более модернизированый Discord Rich Presence
-
+# Cyberprank - модернизированый Discord Rich Presence
+Данный скрипт является не более чем способом рассмешить друзей.
